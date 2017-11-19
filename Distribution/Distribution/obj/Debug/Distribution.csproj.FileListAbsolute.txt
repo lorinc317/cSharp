@@ -1,0 +1,9 @@
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\bin\Debug\Distribution.exe.config
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\bin\Debug\Distribution.exe
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\bin\Debug\Distribution.pdb
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.csprojResolveAssemblyReference.cache
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.Form1.resources
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.Properties.Resources.resources
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.csproj.GenerateResource.Cache
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.exe
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Distribution\Distribution\obj\Debug\Distribution.pdb
