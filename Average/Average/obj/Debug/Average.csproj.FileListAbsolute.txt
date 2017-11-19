@@ -1,0 +1,12 @@
+C:\Users\Shrelock\Desktop\Average\Average\bin\Debug\Average.exe.config
+C:\Users\Shrelock\Desktop\Average\Average\bin\Debug\Average.exe
+C:\Users\Shrelock\Desktop\Average\Average\bin\Debug\Average.pdb
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.Form1.resources
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.Properties.Resources.resources
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.csproj.GenerateResource.Cache
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.exe
+C:\Users\Shrelock\Desktop\Average\Average\obj\Debug\Average.pdb
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Average\Average\bin\Debug\Average.exe.config
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Average\Average\obj\Debug\Average.exe
+C:\Users\Shrelock\Desktop\lorincGit\Programming\projects\csharp\Average\Average\obj\Debug\Average.pdb

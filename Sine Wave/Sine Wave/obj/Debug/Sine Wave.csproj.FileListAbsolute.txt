@@ -1,0 +1,9 @@
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\bin\Debug\Sine Wave.exe.config
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\bin\Debug\Sine Wave.exe
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\bin\Debug\Sine Wave.pdb
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine Wave.csprojResolveAssemblyReference.cache
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine_Wave.Form1.resources
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine_Wave.Properties.Resources.resources
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine Wave.csproj.GenerateResource.Cache
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine Wave.exe
+C:\Users\Shrelock\Desktop\Sine Wave\Sine Wave\obj\Debug\Sine Wave.pdb
